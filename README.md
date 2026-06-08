@@ -47,7 +47,7 @@ Installation de Python 3.x
 Compte GitHub pour la gestion des dépôts
 
 📖 Utilisation
-Clonez le dépôt :git clone https://github.com/arsenesoma88-png/Phase-1.git
+Clonez le dépôt :git clone [https://github.com/arsenesoma88-png/Phase-1.git](https://github.com/arsenesoma88-png/modules_phase_1.git)
 
 Naviguez dans le module souhaité :
 cd "Module 6 fichiers"
