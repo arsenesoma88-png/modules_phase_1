@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-=======
 # modules_phase_1
 Projets réalisés dans le cadre des modules de formation en python
->>>>>>> 3bdb8739a15b67cba3840acbb32e937ffa2c2789
+
 📘 Formation Python – Phase 1
 Ce dépôt contient les ressources et exercices de la formation Python (Phase 1).
 Il est organisé en 7 modules progressifs, allant des bases du langage jusqu’à l’utilisation de Git et du terminal.
@@ -50,11 +48,10 @@ Installation de Python 3.x
 Compte GitHub pour la gestion des dépôts
 
 📖 Utilisation
-<<<<<<< HEAD
 Clonez le dépôt :
 
 bash
-git clone https://github.com/arsenesoma88-png/Phase-1.git
+git clone https://github.com/arsenesoma88-png/modules_phase_1.git
 Naviguez dans le module souhaité :
 
 bash
@@ -63,12 +60,3 @@ Exécutez les scripts avec Python :
 
 bash
 python ex1_fichiers.py
-=======
-Clonez le dépôt :git clone [https://github.com/arsenesoma88-png/Phase-1.git](https://github.com/arsenesoma88-png/modules_phase_1.git)
-
-Naviguez dans le module souhaité :
-cd "Module 6 fichiers"
-
-Exécutez les scripts avec Python :
-python ex1_fichiers.py
->>>>>>> 3bdb8739a15b67cba3840acbb32e937ffa2c2789
