@@ -2,4 +2,4 @@ __pycache__/
 venv/
 *.txt
 .DS_Store
-*.md
+*/*.md
