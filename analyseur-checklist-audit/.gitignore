@@ -1,0 +1,6 @@
+__pycache__/
+venv/
+data/
+*.txt
+.DS_Store
+*/*.md
